@@ -1,0 +1,13 @@
+EXTI.c:35:6:Enable_NVIC	16	static
+EXTI.c:58:6:Disable_NVIC	16	static
+EXTI.c:82:6:Update_EXTI	24	static
+EXTI.c:186:6:MCAL_EXTI_GPIO_Init	16	static
+EXTI.c:200:6:MCAL_EXTI_GPIO_Update	16	static
+EXTI.c:211:6:MCAL_EXTI_GPIO_DeInit	4	static
+EXTI.c:242:6:EXTI0_IRQHandler	8	static
+EXTI.c:253:6:EXTI1_IRQHandler	8	static
+EXTI.c:264:6:EXTI2_IRQHandler	8	static
+EXTI.c:275:6:EXTI3_IRQHandler	8	static
+EXTI.c:286:6:EXTI4_IRQHandler	8	static
+EXTI.c:297:6:EXTI9_5_IRQHandler	8	static
+EXTI.c:307:6:EXTI15_10_IRQHandler	8	static

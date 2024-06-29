@@ -1,0 +1,6 @@
+DC.c:12:6:HAL_Motor1_init	24	static
+DC.c:27:6:HAL_Motor2_init	24	static
+DC.c:44:6:HAL_Motor_Stop	16	static
+DC.c:57:6:HAL_Motor1_Direction	16	static
+DC.c:83:6:HAL_Motor2_Direction	16	static
+DC.c:118:6:HAL_Speed_Motor	24	static

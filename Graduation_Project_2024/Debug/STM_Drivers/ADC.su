@@ -1,0 +1,5 @@
+ADC.c:33:6:MCAL_ADC_init	4	static
+ADC.c:56:6:MCAL_ADC_SelectChannel	16	static
+ADC.c:61:10:MCAL_ADC_ConvertToDigital	16	static
+ADC.c:78:6:MCAL_ADC_SetCallBack	16	static
+ADC.c:82:6:ADC_IRQHandler	8	static

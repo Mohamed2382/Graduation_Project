@@ -1,0 +1,2 @@
+LDR.c:14:6:HAL_LDR_Init	8	static
+LDR.c:23:10:HAL_LDR_Output_Value	16	static

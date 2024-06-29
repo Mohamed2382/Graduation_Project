@@ -1,0 +1,7 @@
+TIMER.c:12:6:TIM2_Init	4	static
+TIMER.c:35:6:Delay_us	16	static
+TIMER.c:49:6:Delay_ms	24	static
+TIMER.c:58:6:Delay_Sec	24	static
+TIMER.c:66:6:TIM1_Init_PWM	16	static
+TIMER.c:153:6:Timer1_PWM1_Set_Value	16	static
+TIMER.c:162:6:Timer1_PWM2_Set_Value	16	static
